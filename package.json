@@ -1,0 +1,11 @@
+{
+  "name": "olympo-engineering-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Allowlisted sandbox for Olympo Phase 8 autonomous engineering demos",
+  "scripts": {
+    "build": "node -e \"console.log('build ok')\"",
+    "test": "node -e \"console.log('test ok')\"",
+    "lint": "node -e \"console.log('lint ok')\""
+  }
+}
